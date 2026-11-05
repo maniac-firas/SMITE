@@ -1,8 +1,0 @@
-Sno			Type			Company			MRP			Status			
-4			Chair			Stylo			39999			In Stock			
-7			Chair			Standard			75999			In Stock			
-1			Sofa Set			HC			79999			In Stock			
-3			Sofa Set			Standard			48999			Out Stock			
-6			Sofa Set			Stylo			89999			In Stock			
-2			Table			Standard			39999			In Stock			
-5			Table			Stylo			19999			Out Stock			
