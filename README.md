@@ -1,4 +1,6 @@
 # SMITE
+SMITE stands for Software Management Inventory Technological Environment. (Purposefully made it this way).
+
 This is a school project. Using tkinter and other modules, written entirely in python language, it is a fully-functional Storage Inventory Management System.
 
 To run the program, run the program called Store Inventory Management System.py in tkinter directory. The program asks for your mysql local root password which ensures that the database runs in any system. Any and all changes to the database are made permanently and tracked in the .csv files available everywhere. 
